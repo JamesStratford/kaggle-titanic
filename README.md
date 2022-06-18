@@ -1,6 +1,6 @@
 # Titanic Kaggle Competition
 
-This is my first entry and attempt in a Kaggle competiion using the Titanic survival dataset.
+This is my first entry and attempt in a Kaggle competition using the Titanic survival dataset.
 
 My submission ranked #840 in the world with a accuracy score of 0.79425.
 
